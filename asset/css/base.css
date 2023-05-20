@@ -1,0 +1,12 @@
+.grid__column-2{
+    width: 50%;
+}
+@keyframes fadeIn{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
